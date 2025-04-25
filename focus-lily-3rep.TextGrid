@@ -1,0 +1,173 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.025691609977324 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Phonological" 
+        xmin = 0 
+        xmax = 4.025691609977324 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.025691609977324 
+            text = "" 
+    item [2]:
+        class = "TextTier" 
+        name = "Rhythmic" 
+        xmin = 0 
+        xmax = 4.025691609977324 
+        points: size = 7 
+        points [1]:
+            number = 0.11700430912350517 
+            mark = "<" 
+        points [2]:
+            number = 0.29725948363774163 
+            mark = ">" 
+        points [3]:
+            number = 0.5496167279576727 
+            mark = "<" 
+        points [4]:
+            number = 0.7336566724223245 
+            mark = ">" 
+        points [5]:
+            number = 0.8922299994807951 
+            mark = "<" 
+        points [6]:
+            number = 1.1517512819239486 
+            mark = ">" 
+        points [7]:
+            number = 1.27824994637502 
+            mark = "%" 
+    item [3]:
+        class = "TextTier" 
+        name = "F0" 
+        xmin = 0 
+        xmax = 4.025691609977324 
+        points: size = 0 
+    item [4]:
+        class = "TextTier" 
+        name = "Intensity" 
+        xmin = 0 
+        xmax = 4.025691609977324 
+        points: size = 0 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Syllable" 
+        xmin = 0 
+        xmax = 4.025691609977324 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11700430912350517 
+            text = "" 
+        intervals [2]:
+            xmin = 0.11700430912350517 
+            xmax = 0.29725948363774163 
+            text = "Mel" 
+        intervals [3]:
+            xmin = 0.29725948363774163 
+            xmax = 0.5496167279576727 
+            text = "nie's" 
+        intervals [4]:
+            xmin = 0.5496167279576727 
+            xmax = 0.7336566724223245 
+            text = "wear" 
+        intervals [5]:
+            xmin = 0.7336566724223245 
+            xmax = 0.8242062742706996 
+            text = "ing" 
+        intervals [6]:
+            xmin = 0.8242062742706996 
+            xmax = 0.8922299994807951 
+            text = "a" 
+        intervals [7]:
+            xmin = 0.8922299994807951 
+            xmax = 1.1517512819239486 
+            text = "lil" 
+        intervals [8]:
+            xmin = 1.1517512819239486 
+            xmax = 1.27824994637502 
+            text = "y" 
+        intervals [9]:
+            xmin = 1.27824994637502 
+            xmax = 1.5063337508244712 
+            text = "" 
+        intervals [10]:
+            xmin = 1.5063337508244712 
+            xmax = 2.5805003255466037 
+            text = "" 
+        intervals [11]:
+            xmin = 2.5805003255466037 
+            xmax = 2.7769896789593047 
+            text = "" 
+        intervals [12]:
+            xmin = 2.7769896789593047 
+            xmax = 3.823750120503231 
+            text = "" 
+        intervals [13]:
+            xmin = 3.823750120503231 
+            xmax = 4.025691609977324 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "Foot" 
+        xmin = 0 
+        xmax = 4.025691609977324 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11700430912350517 
+            text = "" 
+        intervals [2]:
+            xmin = 0.11700430912350517 
+            xmax = 0.5496167279576727 
+            text = "Melanie's" 
+        intervals [3]:
+            xmin = 0.5496167279576727 
+            xmax = 0.8922299994807951 
+            text = "wearing a" 
+        intervals [4]:
+            xmin = 0.8922299994807951 
+            xmax = 1.27824994637502 
+            text = "lily" 
+        intervals [5]:
+            xmin = 1.27824994637502 
+            xmax = 1.5063337508244712 
+            text = "" 
+        intervals [6]:
+            xmin = 1.5063337508244712 
+            xmax = 1.9011144239398574 
+            text = "Melanie's" 
+        intervals [7]:
+            xmin = 1.9011144239398574 
+            xmax = 2.237620436459485 
+            text = "wearing a" 
+        intervals [8]:
+            xmin = 2.237620436459485 
+            xmax = 2.5805003255466037 
+            text = "lily" 
+        intervals [9]:
+            xmin = 2.5805003255466037 
+            xmax = 2.7769896789593047 
+            text = "" 
+        intervals [10]:
+            xmin = 2.7769896789593047 
+            xmax = 3.167296262277781 
+            text = "Melanie's" 
+        intervals [11]:
+            xmin = 3.167296262277781 
+            xmax = 3.501884467625052 
+            text = "wearing a" 
+        intervals [12]:
+            xmin = 3.501884467625052 
+            xmax = 3.823750120503231 
+            text = "lily" 
+        intervals [13]:
+            xmin = 3.823750120503231 
+            xmax = 4.025691609977324 
+            text = "" 
